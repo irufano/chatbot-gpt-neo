@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic 
+pandas 
+transformers
+torch
+torchvision
+torchaudio
+numpy
